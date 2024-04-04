@@ -1,0 +1,18 @@
+
+1712135917452: GET: /api/users
+
+1712135931881: DELETE: /api/users/1
+
+1712135981394:::1 GET: /api/users
+
+1712135982820:::1 GET: /api/users
+
+1712193456439:::1 PATCH: /api/users/2
+
+1712193491098:::1 GET: /api/users
+
+1712193595059:::1 PATCH: /api/users/2
+
+1712194142157:::1 PATCH: /api/users/2
+
+1712194182648:::1 POST: /api/users

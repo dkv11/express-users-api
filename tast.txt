@@ -1,0 +1,19 @@
+REST API-JSON API
+
+GET /users - List all users Returen HTML responses
+GET /api/users - List all users Returen JSON responses
+
+GET /api/users/1 - GEt the user with id 1
+//Dynamic Path Parameters
+GET /api/users/:id 
+
+POST /api/users - Create a new user
+
+PATCH /api/users/1 - Edit the user with id 1
+
+DELETE /api/users/1 - Delete the user with id 1
+
+
+
+//mockaroo.com --> for fake generaion of users
+
